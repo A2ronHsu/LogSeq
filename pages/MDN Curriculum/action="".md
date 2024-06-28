@@ -1,0 +1,1 @@
+- The `action` attribute defines the location (URL) where the form's collected data should be sent when it is submitted.

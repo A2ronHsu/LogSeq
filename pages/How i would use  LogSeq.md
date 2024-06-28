@@ -1,0 +1,10 @@
+- Put things in to the journal
+	- mainly to create the pages i worked in the day
+	- maybe adding rando block to organize later
+	-
+- Link pages and blocks
+	- [Link to a page using square brakets](((a1cd77f0-8953-4798-a0bf-dc5daef4847e)))
+	- [link to a block]( ((d76f9a6a-73f4-49e8-85fa-32235341ef4b)))
+		- Maybe: embeds Pages or Blocks from other pages
+			- ((8a6873b9-22f3-45f6-aca6-1cf21f34c9a5))
+			- ((667ebe70-c90f-4563-afa7-8fa21d7c4e68))

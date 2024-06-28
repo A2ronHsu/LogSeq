@@ -1,0 +1,1 @@
+- The [<label>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label) element is the formal way to define a label for an HTML form widget.

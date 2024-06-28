@@ -1,0 +1,1 @@
+- The [<fieldset>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset) HTML element is used to group several controls as well as labels (<label>) within a web form.

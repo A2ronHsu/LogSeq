@@ -1,0 +1,1 @@
+- The `method` attribute defines which HTTP method to send the data with (usually `get` or `post`).
